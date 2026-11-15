@@ -1,3 +1,5 @@
+> 📦 **Release 下载提示**：请前往对应的 GitLab 仓库查看或下载 Release（GitHub 端暂不重复上传）👉 [https://gitlab.com/xusu616/free-Commit-Garden/-/releases](https://gitlab.com/xusu616/free-Commit-Garden/-/releases) （[GitLab 仓库主页](https://gitlab.com/xusu616/free-Commit-Garden)）
+
 # free-Commit-Garden
 
 把 GitHub 贡献记录种成四季像素花园。独立运行、无运行时依赖，也可接入 Hexo / Butterfly 或普通 HTML 网站。
